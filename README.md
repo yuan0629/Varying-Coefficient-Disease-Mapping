@@ -2,9 +2,9 @@
 All the code and data used for simulation and real data analysis for paper "Spatiotemporal Varying Coefficient Model for Respiratory Disease Mapping in Taiwan".
 
 ## Code 
-realdata.R: real data analysis using varying coefficient model, fixed coefficient model and bakar's model respectively.(table D.1, table C.3, table C.4) \
+realdata.R: real data analysis using varying coefficient model, fixed coefficient model and bakar's model respectively.(table D.1, table C.3, table C.4) 
 
-SPDE.R: the INLA-SPDE method used to transform point data to regional data. \
+SPDE.R: the INLA-SPDE method used to transform point data to regional data. 
 
 simulation.R: \
 

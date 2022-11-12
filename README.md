@@ -4,11 +4,11 @@ All the code and data used for simulation and real data analysis for paper "Spat
 ## Code 
 **realdata.R**: real data analysis using varying coefficient model, fixed coefficient model and bakar's model respectively.(table D.1, table C.3, table C.4) 
 
-**SPDE.R**: the INLA-SPDE method used to transform point data to regional data. 
+**SPDE.R**: the INLA-SPDE method used to transform point-level data PM2.5, temperature and relative humidity to areal-level data. 
 
-**simulation.R**: 
+**simulation.R**:  simulation under the scenarios of 1)fixed $\beta_1$ and varying $\beta_2$ 2)varing $\beta_1$ and $\beta_2$.(table 1, table2)
 
-**simulation_misaligned.R**: (table B.1) 
+**simulation_misaligned.R**: simulation with real point-level PM2.5 concentration.(table B.1) 
 
 **prediction**: prediction performance of varying coefficient model, fixed coefficient model, Bakar's model and the disease mapping model without spatial random effects.(table B.2) 
 

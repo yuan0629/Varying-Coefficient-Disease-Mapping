@@ -20,6 +20,6 @@ All the code and data used for simulation and real data analysis for paper "Spat
 Folder "RData" contains all the data used for analysis. \
 **data.RData**: the original PM2.5, temperature and humidity data. 
 
-**fulldata.RData**: the full data used for real data analysis. Due to data privacy, "respiratory" and "total" are simulated data similar to the original ones, while the others are real original data. 
+**fulldata.RData**: the full data used for real data analysis. "respiratory" is visit counts for respiratory diseases and "total" is the visit counts for all diseases. Due to data privacy, these two are simulated data similar to the original ones, while the others are real original data. 
 
 **map.RData**: the adjacency matrix of 328 counties in Taiwan.

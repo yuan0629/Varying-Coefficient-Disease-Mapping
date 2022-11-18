@@ -23,3 +23,6 @@ Folder "RData" contains all the data used for analysis. \
 **fulldata.RData**: the full data used for real data analysis. "respiratory" is visit counts for respiratory diseases and "total" is the visit counts for all diseases. Due to data privacy, these two are simulated data similar to the original ones, while the others are real original data. 
 
 **map.RData**: the adjacency matrix of 328 counties in Taiwan.
+
+## Reference
+Spatiotemporal Varying Coefficient Model for Respiratory Disease Mapping in Taiwan, Feifei Wang, Congyuan Duan, Yang Li, Hui Huang, and Ben-Chang Shia. _Biostatistics(To appear)_

@@ -25,4 +25,4 @@ Folder "RData" contains all the data used for analysis. \
 **map.RData**: the adjacency matrix of 328 counties in Taiwan.
 
 ## Reference
-Spatiotemporal Varying Coefficient Model for Respiratory Disease Mapping in Taiwan, Feifei Wang, Congyuan Duan, Yang Li, Hui Huang, and Ben-Chang Shia. _Biostatistics(To appear)_
+Spatiotemporal Varying Coefficient Model for Respiratory Disease Mapping in Taiwan. Feifei Wang, Congyuan Duan, Yang Li, Hui Huang, and Ben-Chang Shia. _Biostatistics(To appear)_
